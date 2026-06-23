@@ -44,4 +44,6 @@ This dashboard helps users:
      - Make informed financial decisions.
        # Dashboard Insight
 <a href="https://github.com/sahilchandane/Personal-Finance-Analytic/blob/main/Personal%20Finance%20Dashboard.pbix">Dashboard link </a>
-
+<a href="https://github.com/sahilchandane/Personal-Finance-Analytic/blob/main/Screenshot%202026-06-23%20155820.png">Dashboard Screenshot</a>
+# Conclusion 
+The Personal Finance Monitoring Dashboard provides a comprehensive overview of income, expenses, savings, and investment performance, enabling effective financial management and planning. The analysis reveals that while salary remains the primary income source, major expenses are driven by housing, groceries, and EMIs. Savings are primarily invested in mutual funds and fixed deposits, demonstrating a focus on long-term wealth creation. By identifying spending patterns and monitoring savings growth, the dashboard empowers users to optimize budgeting, improve financial discipline, and achieve their long-term financial goals through data-driven decision-making.
