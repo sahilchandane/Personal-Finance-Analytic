@@ -42,4 +42,6 @@ This dashboard helps users:
    -   Improve budgeting and savings habits.
     -  Monitor investment performance.
      - Make informed financial decisions.
-<a href="
+       # Dashboard Insight
+<a href="https://github.com/sahilchandane/Personal-Finance-Analytic/blob/main/Personal%20Finance%20Dashboard.pbix">Dashboard link </a>
+
